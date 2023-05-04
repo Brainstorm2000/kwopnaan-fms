@@ -1,0 +1,20 @@
+============
+INSTRUCTIONS
+============
+
+1. Unzip the project file and head over to your XAMPP directory(C:\xampp). There you’ll find a folder named “htdocs”.
+2. Inside the “htdocs” folder, paste the project folder (not the .zip one, but the extracted one).
+3. Open your web browser; I recommend using Google Chrome or Mozilla Firefox.
+4. Then, go to the URL http://localhost/phpmyadmin
+5. Create a Database with the name "kwopnaan_demo".
+6. Click on the “Import” tab and choose the database file (.sql) which is provided in the "database" folder in the project directory.
+7. After setting up all these, go to the URL http://localhost/[ PROJECT_FOLDER_NAME ]/
+8. All the login details are provided below:
+
+=============
+LOGIN DETAILS
+=============
+admin   => admin@kwopnaan.com   || password => password
+depot 1 => depot1@kwopnaan.com  || password => password
+depot 2 => depot2@kwopnaan.com  || password => password
+factory => factory@kwopnaan.com || password => password
